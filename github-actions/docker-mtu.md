@@ -15,7 +15,7 @@ cat <<EOF >/etc/docker/daemon.json
 
 This only applies to docker's default network though. When running containerized pipelines in github it likes to create a brand new network for each execution. 
 
-<img src="images/image.png" width="500">
+<img src="images/image.png" width="800">
 
 [gcp-mtu]: https://docs.cloud.google.com/vpc/docs/mtu
 
