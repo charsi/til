@@ -1,16 +1,20 @@
 # CSP Breaks Boookmarklets
 
-I was working on a bookmarklet today and was quite pleased with the result. It is a modified version of [Columnate](https://github.com/anoved/Columnate).
-
-But when I tried it on wikipedia it did nothing. After looking the errors in the console I learned this is because wikipedia has enabled CSP policies [script-src][def2] and [style-src][def]. These essentially block loading of resources from outside sources that wikipedia hasn't allowed explicitly.
+Wikipedia has enabled CSP rules [script-src][def2] and [style-src][def]. These essentially block loading of resources from outside sources that wikipedia hasn't allowed explicitly.
 
 ![screenshot of firefox console showing CSP error](image.png)
 
+![CSP error for CSS](image-1.png)
 
-![alt text](image-1.png)
+Thankfully, a few other CDNs are on the list. And the library needed is [available][def4] via jsdelivr. But this won't be a reliable source for every site with CSP rules activated.
 
-Thanksfully, jsdelivr and a few other CDNs are on the list so I can publish my code there. But this will not be the case for every website that I want my bookmarklet to run on. 
+Note - Javascript directly embedded in a bookmarklet still works in both, chrome and firefox.
+
+Learned about this while working on a bookmarklet. It is a modified version of [Columnate][def5], based on [Readability.js][def3] by Mozilla.
 
 [def]: https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Content-Security-Policy/style-src
 
 [def2]: https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Content-Security-Policy/script-src
+[def3]: https://github.com/mozilla/readability
+[def4]: https://www.jsdelivr.com/package/npm/readability-js
+[def5]: https://github.com/anoved/Columnate
