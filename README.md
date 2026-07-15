@@ -11,8 +11,11 @@ Inspired by [Simon Willison's' TIL][def] which was inspired by [Josh Branchaud's
 
 * [CSS](#css)
 * [Github Actions](#github-actions)
+* [Gitlab](#gitlab)
+* [Utilities](#utilities)
 * [VSCode](#vscode)
 * [Web](#web)
+* [YAML](#yaml)
 
 ---
 
