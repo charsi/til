@@ -25,7 +25,7 @@ Inspired by [Simon Willison's' TIL][def] which was inspired by [Josh Branchaud's
 - [column-height for Pages](css/column-height.md)
 
 ### GCP
-- - [GCP's Default MTU Prevents Network Connections in Docker Containers](gcp/docker-mtu.md)
+- [GCP's Default MTU Prevents Network Connections in Docker Containers](gcp/docker-mtu.md)
 
 ### Github Actions
 
