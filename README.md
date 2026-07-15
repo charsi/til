@@ -24,12 +24,24 @@ Inspired by [Simon Willison's' TIL][def] which was inspired by [Josh Branchaud's
 
 - [Docker MTU prevents network connections in GCP](github-actions/docker-mtu.md)
 
+### Gitlab
+
+- [Gitlab - Create Merge Request From The Commandline](gitlab/create-mr-from-commandline.md)
+
+### Utilities
+
+- [Monitor Brightness DDC/CI](utilities/monitor-brightness.md)
+
 ### VSCode
 
 - [Custom file associations in VSCode](vscode/custom-file-associations.md)
-
 
 ### Web
 
 - [CSP Breaks Bookmarklets](web/csp-breaks-bookmarklets.md)
 - [Spacebar Scrolling is Not Full Page](web/spacebar-scroll.md)
+
+
+### YAML
+
+- [YAML Strings](yaml/yaml-strings.md)
