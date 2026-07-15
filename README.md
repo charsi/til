@@ -10,6 +10,7 @@ Inspired by [Simon Willison's' TIL][def] which was inspired by [Josh Branchaud's
 ## Categories
 
 * [CSS](#css)
+* [GCP](#gcp)
 * [Github Actions](#github-actions)
 * [Gitlab](#gitlab)
 * [Utilities](#utilities)
@@ -23,9 +24,11 @@ Inspired by [Simon Willison's' TIL][def] which was inspired by [Josh Branchaud's
 
 - [column-height for Pages](css/column-height.md)
 
+### GCP
+- - [GCP's default MTU Prevents Network Connections in Docker Containers](gcp/docker-mtu.md)
+
 ### Github Actions
 
-- [Docker MTU prevents network connections in GCP](github-actions/docker-mtu.md)
 - [Default Shell is Not Bash](github-actions/default-shell.md)
 
 ### Gitlab
