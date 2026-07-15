@@ -1,4 +1,4 @@
-# YAML Strings
+# YAML Multi-line Strings
 
 Did you know the difference between defining yaml string with `>` vs `|` vs `>-` vs `|-` vs `""` ? 
 

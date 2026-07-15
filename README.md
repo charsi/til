@@ -51,4 +51,4 @@ Inspired by [Simon Willison's TIL][def] which was inspired by [Josh Branchaud's 
 
 ### YAML
 
-- [YAML Strings](yaml/yaml-strings.md)
+- [YAML Multiline Strings](yaml/yaml-strings.md)
