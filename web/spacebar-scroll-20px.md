@@ -4,10 +4,10 @@ All web browsers scroll down a page when you press the spacebar. And scroll up i
 
 But based on some testing I did, in both chrome and firefox the actual scroll distance seems to be a little bit less than the full page height - 
 
-Chrome is short by 20px -  
-![Chrome screenshot](images/image-2.png =200x)
+Chrome is short by 20px - 
+<img src="images/image-2.png" width="200"> 
 
 Firefox is short by 32.5 -  
-![Firefox screenshot](images/image-3.png =200x)
+<img src="images/image-3.png" width="200">
 
 I am guessing this is intentional to help users mantain continuity by showing a little bit of the previous page.
