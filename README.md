@@ -9,9 +9,9 @@ Inspired by [Simon Willison's' TIL][def] which was inspired by [Josh Branchaud's
 
 ## Categories
 
-* [CSS](#CSS)
-* [Github Actions](#Github Actions)
-* [Web](#Web)
+* [CSS](#css)
+* [Github Actions](#github-actions)
+* [Web](#web)
 
 ---
 
@@ -21,7 +21,7 @@ Inspired by [Simon Willison's' TIL][def] which was inspired by [Josh Branchaud's
 
 ### Github Actions
 
-- [Docker MTU prevents network connections in GCP][docker-mtu.md]
+- [Docker MTU prevents network connections in GCP](docker-mtu.md)
 
 
 ### Web
