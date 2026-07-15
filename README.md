@@ -11,6 +11,7 @@ Inspired by [Simon Willison's' TIL][def] which was inspired by [Josh Branchaud's
 
 * [CSS](#css)
 * [Github Actions](#github-actions)
+* [VSCode](#vscode)
 * [Web](#web)
 
 ---
@@ -22,6 +23,10 @@ Inspired by [Simon Willison's' TIL][def] which was inspired by [Josh Branchaud's
 ### Github Actions
 
 - [Docker MTU prevents network connections in GCP](github-actions/docker-mtu.md)
+
+### VSCode
+
+- [Custom file associations in VSCode](vscode/custom-file-associations.md)
 
 
 ### Web
