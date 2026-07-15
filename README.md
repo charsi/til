@@ -25,7 +25,7 @@ Inspired by [Simon Willison's' TIL][def] which was inspired by [Josh Branchaud's
 - [column-height for Pages](css/column-height.md)
 
 ### GCP
-- - [GCP's default MTU Prevents Network Connections in Docker Containers](gcp/docker-mtu.md)
+- - [GCP's Default MTU Prevents Network Connections in Docker Containers](gcp/docker-mtu.md)
 
 ### Github Actions
 
@@ -41,7 +41,7 @@ Inspired by [Simon Willison's' TIL][def] which was inspired by [Josh Branchaud's
 
 ### VSCode
 
-- [Custom file associations in VSCode](vscode/custom-file-associations.md)
+- [Custom File Associations in VSCode](vscode/custom-file-associations.md)
 
 ### Web
 

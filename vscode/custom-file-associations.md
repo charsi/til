@@ -1,4 +1,4 @@
-# Custom file associations in VSCode
+# Custom File Associations in VSCode
 
 You can go to [files.associations](vscode://settings/files.associations) to create a file association for any extension. 
 
