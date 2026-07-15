@@ -2,9 +2,9 @@
 
 Wikipedia has enabled CSP rules [script-src][def2] and [style-src][def]. These essentially block loading of resources from outside sources that wikipedia hasn't allowed explicitly.
 
-![screenshot of firefox console showing CSP error](image.png)
+![screenshot of firefox console showing CSP error](images/image.png)
 
-![CSP error for CSS](image-1.png)
+![CSP error for CSS](images/image-1.png)
 
 Thankfully, a few other CDNs are on the list. And the library needed is [available][def4] via jsdelivr. But this won't be a reliable source for every site with CSP rules activated.
 
