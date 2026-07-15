@@ -9,5 +9,17 @@ Inspired by [Simon Willison's' TIL][def] which was inspired by [Josh Branchaud's
 
 ## Categories
 
-* [css](#css)
-* [Web](#web)
+* [CSS](#CSS)
+* [Web](#Web)
+
+---
+
+### CSS
+
+- [column-height for Pages](css/column-height.md)
+
+
+### Web
+
+- [CSP Breaks Bookmarklets](web/csp-breaks-bookmarklets.md)
+- [Spacebar Scrolling is Not Full Page](web/spacebar-scroll.md)
