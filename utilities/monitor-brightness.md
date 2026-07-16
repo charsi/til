@@ -1,5 +1,5 @@
 ---
-title: Gitlab - Create Merge Request From The Commandline
+title: Adjust Monitor Brightness With these Utilities
 date: 2022-08-21
 ---
 # Adjust Monitor Brightness With these Utilities
