@@ -8,6 +8,7 @@ defaults:
     shell: bash 
 
 jobs:
+  # Convert markdown files to html using pt
   build:
     runs-on: ubuntu-latest
     env:
@@ -19,6 +20,7 @@ jobs:
         with:
             path: ${{ env.BUILD_PATH }}/
 
+  # Deploy html files generated in the last job to https://nishil.in/til/
   deploy:
     needs: build
     permissions:
