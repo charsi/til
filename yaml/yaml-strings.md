@@ -1,3 +1,7 @@
+---
+title: YAML Multi-line Strings
+date: 2024-02-22
+---
 # YAML Multi-line Strings
 
 Did you know the difference between defining yaml string with `>` vs `|` vs `>-` vs `|-` vs `""` ? 

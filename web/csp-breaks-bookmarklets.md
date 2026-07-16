@@ -1,3 +1,7 @@
+---
+title: CSP Breaks Boookmarklets
+date: 2026-07-12
+---
 # CSP Breaks Boookmarklets
 
 Wikipedia has enabled CSP rules [script-src][def2] and [style-src][def]. These essentially block loading of resources from outside sources that wikipedia hasn't allowed explicitly.

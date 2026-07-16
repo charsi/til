@@ -1,3 +1,7 @@
+---
+title: Spacebar Scrolling does not scroll the full page
+date: 2026-07-12
+---
 # Spacebar Scrolling does not scroll the full page
 
 All web browsers scroll down a page when you press the spacebar. And scroll up if you press shift + scpace. This is really useful when reading long articles.

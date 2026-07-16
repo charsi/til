@@ -1,4 +1,8 @@
-# Github Actions don't run in bash by default
+---
+title: Github Actions Don't Run in Bash By Default
+date: 2024-11-11
+---
+# Github Actions Don't Run in Bash By Default
 
 Github actions needs this in the workflow template to make the pipeline jobs run in bash. The default is POSIX shell.
 

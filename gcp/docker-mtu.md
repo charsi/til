@@ -1,7 +1,6 @@
 ---
 title: GCP's Default MTU Prevents Network Connections in Docker Containers
-date: 2017-04-20 01:51:02
-permalink: docker-mtu
+date: 2026-05-20
 ---
 # GCP's Default MTU Prevents Network Connections in Docker Containers
 

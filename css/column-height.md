@@ -1,4 +1,8 @@
-# column-height CSS for pages on the web
+---
+title: column-height CSS For Pages
+date: 2026-07-14
+---
+# column-height CSS For Pages
 
 [column-height](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/column-height) can be used to simulate "pages" in a web view. 
 
