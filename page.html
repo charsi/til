@@ -1,27 +1,19 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
   <head>
     <title>{{ .Title }}</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/charsi/steel.css/steel.min.css" />
   </head>
   <body>
-    {{ if eq .Path "index.html" }}
+    {{ if eq .Path "dist/index.html" }}
       <ul>
         {{ range .Pages }}
-          <li>
-            <a href="{{ .URL }}">{{ .Title }}</a> &mdash;
-            <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 Jan 2006" }}</time>
-          </li>
+          <li><a href="{{ .URL }}">{{ .Title }}</a> ({{ .Date.Format "January 2, 2006" }})</li>
         {{ end }}
       </ul>
     {{ else }}
-      <h1>{{ .Title }}</h1>
       {{ .Content }}
-      <p>
-        <a href="/">Home</a>
-      </p>
     {{ end }}
   </body>
 </html>
