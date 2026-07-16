@@ -1,3 +1,8 @@
+---
+title: GCP's Default MTU Prevents Network Connections in Docker Containers
+date: 2017-04-20 01:51:02
+permalink: docker-mtu
+---
 # GCP's Default MTU Prevents Network Connections in Docker Containers
 
 By default, GCP sets the [MTU size to 1460][gcp-mtu] bytes. Docker by default sets it to 1500.
